@@ -60,8 +60,8 @@ public class VMTranslator {
      */
     private static void printUsage() {
         System.out.println("Usage: java VMTranslator source" + System.lineSeparator());
-        System.out.println("where source is either a relative path to a VM file (\"xxx.vm\")");
-        System.out.println("or a folder (\"path\"to\"folder\") containing one or more VM files");
+        System.out.println("where source is either a relative path to a VM file (\\path\\to\\folder\\xxx.vm)");
+        System.out.println("or a folder (\\path\\to\\folder\\) containing one or more VM files");
     }
 
     /**
