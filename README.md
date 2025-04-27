@@ -1,4 +1,4 @@
-#VM Translator for Hack Machine Language from nand2tetris.org written in Java
+# VM Translator for Hack Machine Language from nand2tetris.org written in Java
 
 This is a Java implementation of Virtual Stack Machine translator to Hack Assembly language. 
 It is written as part of the NandToTetris course: https://www.nand2tetris.org/project07 and https://www.nand2tetris.org/project08.
